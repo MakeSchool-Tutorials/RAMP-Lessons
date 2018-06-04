@@ -5,11 +5,7 @@ function setup () {
 function draw () {
   helperBackground(); // do not change or move this line
 
-  // >>>>>> Your code BELOW here >>>>>>
-  // #2 Draw Creature 1
+  // Step 2a: Draw Creature 1
 
-  // #2 Draw Creature 2
-
-  // Bonus Challenge
-  // <<<<<< Your code ABOVE here <<<<<<
+  // Step 2b: Draw Creature 2
 }
