@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=Bn_B3T_Vbxs&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMW
 ## Complete Code Challenges
 ### in index.html
 *Step 1: Add your name*
-add your name, so that it says "YOURNAME's..."
+- add your name, so that it says "YOURNAME's..."
 
 ### in sketch.js
 *Step 2: Create a big arrow that follows the mouse*

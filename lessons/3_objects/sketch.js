@@ -1,18 +1,35 @@
+var skyColor;
+var cloud;
+
 function setup () {
   createCanvas(400, 400);
 
-  // #2 Create rightCreature object
-  // #2 Create leftCreature object
+  skyColor = color(100, 200, 255);
+  cloud = {
+    color: color(255, 255, 255, 250),
+    height: 100,
+    yOffset: 50,
+  }
 
-  // Bonus Challenge
+  // #2a Create rightCreature object with properties
+
+  // #2b Create leftCreature object with properties
+
+  // Bonus 1
 }
 
 function draw () {
-  background(250);
+  background(skyColor);
+  helperDrawCloud();
 
-  // #3 Draw rightCreature to then right of the mouse
-  // #3 Draw leftCreature to the left of the mouse
+  // #3a Draw rightCreature on the right side of the cloud
+
+  // #3b Draw leftCreature on the left side of the cloud
+
 }
 
-// #4 Add mousePressed()
-// #4 Use random() to change some properties
+// #4a Add mousePressed()
+
+// #4b Use random() and setRed() to change skyColor
+
+// Bonus 2
