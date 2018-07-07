@@ -32,7 +32,13 @@ add your name, so that it says "YOURNAME's..."
 - `beast.color` should be `color1` while crossing the first third of the background, `color2` in the middle, and `color3` in the last third
 
 ### Step 4 - Determine relative motion of `beast` to the mouse
-- Create a boolean variable called `movingTowardsMouse` and use an if statement
+Let's find out when the beast is moving towards the mouse and when it is moving away from the mouse. This can be done using two pieces of information:
+1. Is the beast moving to the left or to the right?
+2. Is the mouse to the left or the right of the mouse?
+Here are the four possible combinations of these two:
+(images)
+
+- Create a boolean variable called `movingTowardsMouse` and use an if statement:
 - movingTowardsMouse should be set to `true` when:
 `beast` is moving to the right and the mouse is to the right of the `beast`
 OR `beast` is moving to the left and the mouse is to the left of the `beast`
@@ -43,6 +49,8 @@ OR `beast` is moving to the left and the mouse is to the left of the `beast`
 - Use an if statement to update `beast.message` to say whether it is chasing or fleeing the mouse
 - If `movingTowardsMouse` is `true`, the message should say "Chasing"
 - If `movingTowardsMouse` is `false`, the message should say "Fleeing"
+
+These are the two different combinations for fleeing
 
 ### Bonus 1 - Bounce both horizonally and vertically
 - Ensure that `beast` still bounces the entire width of the canvas
