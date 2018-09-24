@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 1.4: Color - The Coding Train
 https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
 

@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 4.1: while and for Loops - The Coding Train
 https://www.youtube.com/watch?v=cnRD9o6odjk&index=16&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 

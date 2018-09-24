@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 1.3: Shapes & Drawing - The Coding Train
 https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3
 

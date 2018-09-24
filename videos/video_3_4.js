@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 3.4: Boolean Variables - The Coding Train
 https://www.youtube.com/watch?v=Rk-_syQluvc&index=15&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 

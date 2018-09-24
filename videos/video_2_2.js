@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 2.2: Variables (Make your own) - The Coding Train
 https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
 

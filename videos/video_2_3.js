@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 2.3: JavaScript Objects - The Coding Train
 https://www.youtube.com/watch?v=-e5h4IGKZRY&index=9&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 

@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 3.1: Introduction to Conditional Statements - The Coding Train
 https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12
 

@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 2.1: Variables (mouseX, mouseY) - The Coding Train
 https://www.youtube.com/watch?v=RnS0YNuLfQQ&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 

@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 1.5: Errors & Console - The Coding Train
 https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
 

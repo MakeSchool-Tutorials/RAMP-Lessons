@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 3.3: Else and Else if, AND and OR - The Coding Train
 https://www.youtube.com/watch?v=r2S7j54I68c&index=14&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 

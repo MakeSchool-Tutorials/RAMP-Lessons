@@ -1,5 +1,5 @@
 /*
-Video Walkthrough
+Video Guide
 2.5: The random() Function - The Coding Train
 https://www.youtube.com/watch?v=nfmV2kuQKwA&index=11&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 
