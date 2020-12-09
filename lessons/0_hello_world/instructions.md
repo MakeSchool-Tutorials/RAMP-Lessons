@@ -68,6 +68,3 @@ Email ramp@makeschool.com for any other questions you have. Good luck, and happy
 - Add a new print statement
 - "What inspired you to learn to code?"
 
-*Bonus 2: Fix the code formatting error*
-- Look on the left side of the code panel for the *i*
-- Make the suggested change
